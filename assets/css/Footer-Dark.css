@@ -1,7 +1,7 @@
 @media (max-width: 991px) {
   img:hover {
     width: 416px;
-    height: 277px;
+    /*height: 277px;*/
     display: none;
   }
 }
